@@ -1,5 +1,9 @@
 # Release Notes
 
+## v1.0.1 (2023-06-28)
+
+- .gitignore
+
 ## v1.0.0 (2023-06-28)
 
 node js v18.19.2.
